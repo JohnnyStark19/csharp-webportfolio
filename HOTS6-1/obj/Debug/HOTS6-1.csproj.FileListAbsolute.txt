@@ -1,0 +1,11 @@
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\bin\Debug\HOTS6-1.exe.config
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\bin\Debug\HOTS6-1.exe
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\bin\Debug\HOTS6-1.pdb
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\obj\Debug\HOTS6-1.csproj.AssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\obj\Debug\HOTS6-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\obj\Debug\HOTS6_1.Form1.resources
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\obj\Debug\HOTS6_1.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\obj\Debug\HOTS6-1.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\obj\Debug\HOTS6-1.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\obj\Debug\HOTS6-1.exe
+C:\Users\johnn\OneDrive\Desktop\HOtsTest\HOTS6-1\obj\Debug\HOTS6-1.pdb
